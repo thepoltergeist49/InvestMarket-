@@ -1,0 +1,6 @@
+{
+  "name": "InvestMarket",
+  "description": "Plateforme d’investissement structurée et transparente avec gestion des offres, KYC, paiements Flooz & TMoney, registre financier et back-office complet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
